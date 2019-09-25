@@ -27,6 +27,8 @@ body {
 }
 
 .clock-face {
+  background-image: url("../images/clockbg1.png");
+  background-size: cover;
   position: relative;
   width: 100%;
   height: 100%;
